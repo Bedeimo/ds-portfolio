@@ -1,0 +1,14 @@
+**Data Science Consultant**
+Seniority: Specialist
+Requirements: Bachelor's Degree, Coding Experience 
+Skills: Fluency in English speaking and writing, Expereince with practical modeling design,
+preferred credits in Computer Science and Statistics.
+Notes: Had more formal education requirements than a government job. Had more emphasis in taking credits
+that were related to data science and computer science.
+
+**GIS Analyst**
+Seniority: Entry
+Requirements: Bachelor's Degree, coding experience, map-building skills
+Skills: Aerial photography, making geospatial reports, satellite imagery
+Notes: Had less requirements but more benefits than a data firm job. Had on the job training and more practical skilsl
+that were required.
