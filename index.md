@@ -1,5 +1,5 @@
 ## Hoang Le
-# 111-111-1111 leh7@oregonstate.edu
+111-111-1111 leh7@oregonstate.edu
 
 My name is Hoang Le and I am pursuing a degree in Mechanical Engineering and am currently wanting to explore other academic paths. This has led me to be drawn to the field of data science. My personal interests in art, reading, and gaming helped spark an interest in understanding raw data and finding ways to make it visually appealing and easy to understand for others. I picked up programming skills such as Python, and R, which I’m currently learning, because I believe these are good foundational skills to have for statistical analysis. I’ve also learned Excel, Gephi, and how to prep the data for analysis and better visualization. My mathematics skills include single variable, integral, and vector calculus, as well as physics. I wish to learn more from this class and build the skills necessary to combine my interests in data science with mechanical engineering and personal creative interests.
 ## Skills Section:
