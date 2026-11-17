@@ -1,12 +1,10 @@
-# Hoang Le
+## Hoang Le
+# 111-111-1111 leh7@oregonstate.edu
 
-Hello! I wanted to learn more about data science so that I could apply it to engineering or to pivot majors.
-
-## Skills
-- Excel and Word
-- Python
-- RStudio (WIP)
-- Godot
-
-## Projects
-Coming soon!
+My name is Hoang Le and I am pursuing a degree in Mechanical Engineering and am currently wanting to explore other academic paths. This has led me to be drawn to the field of data science. My personal interests in art, reading, and gaming helped spark an interest in understanding raw data and finding ways to make it visually appealing and easy to understand for others. I picked up programming skills such as Python, and R, which I’m currently learning, because I believe these are good foundational skills to have for statistical analysis. I’ve also learned Excel, Gephi, and how to prep the data for analysis and better visualization. My mathematics skills include single variable, integral, and vector calculus, as well as physics. I wish to learn more from this class and build the skills necessary to combine my interests in data science with mechanical engineering and personal creative interests.
+## Skills Section:
+- Programming: Python, R (Currently Learning)
+- Data Analysis & Prep: Data Cleaning, Data Preparation, Excel Skills, Gephi
+- Mathematics: Single Variable/ Integral/ Vector Calculus, Physics
+## Goals:
+My main goal is to become a robotics engineer and make autonomous systems and robotic prosthetics. I wish to make my own personal projects for my portfolio and resume but do not have the skills necessary to do it all on my own yet. But having data science as a minor will help me achieve my goals in optimizing, testing, and running simulations because I will be able to turn that raw data into something visually understandable so I can improve my projects. While mechanical engineering helps me understand how parts move and function, data science lets me tell the system how to think, process information, and make its own decisions. So over the course of my academic career, I wish to learn all that I can to have a better understanding of data science so that I may be able to create my own projects that, in the near future, help others and ease their burdens.
