@@ -6,5 +6,8 @@ My name is Hoang Le and I am pursuing a degree in Mechanical Engineering and am 
 - Programming: Python, R (Currently Learning)
 - Data Analysis & Prep: Data Cleaning, Data Preparation, Excel Skills, Gephi
 - Mathematics: Single Variable/ Integral/ Vector Calculus, Physics
-## Goals:
+## Career Goals:
 My main goal is to become a robotics engineer and make autonomous systems and robotic prosthetics. I wish to make my own personal projects for my portfolio and resume but do not have the skills necessary to do it all on my own yet. But having data science as a minor will help me achieve my goals in optimizing, testing, and running simulations because I will be able to turn that raw data into something visually understandable so I can improve my projects. While mechanical engineering helps me understand how parts move and function, data science lets me tell the system how to think, process information, and make its own decisions. So over the course of my academic career, I wish to learn all that I can to have a better understanding of data science so that I may be able to create my own projects that, in the near future, help others and ease their burdens.
+
+The skills I learned for GitHub and portfolio drafting will help me get closer to this goal by giving me a way to build my projects in one place and show them to others. With GitHub, I can keep my code organized, track changes, and document each project over time. This matters a lot for robotics, because autonomous systems need to be constantly tested and recorded. Portfolio drafting helped me present my work clearly and in an organized manner. This will help me present my work to other people, show the tools I used, and explain how I solved the problem.
+
